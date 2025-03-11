@@ -5,6 +5,20 @@
  * 파이썬 튜터: https://pythontutor.com/
  * ideone : https://ideone.com/
 
+## 파이썬 설치
+
+ * 공식 파이썬 다운로드 페이지
+   - https://www.python.org/downloads/
+
+### Python for windows
+
+최신버전(2025년 3월 현재): python-3.13.2-amd64.exe
+
+```cmd
+> python -V
+Python 3.13.2
+```
+
 ## 사칙 연산
 
 ```py
@@ -69,20 +83,6 @@
  > 파이썬은 명령을 한 줄씩 해석해서 일을 하는 인터프이터 방식이다.
 
  * [인터프리터와 컴파일러를 설명한 애니메이션@YouTube](https://youtu.be/Dx2tSsd3aFc)
-
-## 파이썬 설치
-
- * 공식 파이썬 다운로드 페이지
-   - https://www.python.org/downloads/
-
-### Python for windows
-
-최신버전(2025년 3월 현재): python-3.13.2-amd64.exe
-
-```cmd
-> python -V
-Python 3.13.2
-```
 
 ## 파이썬 인터프리터
 
