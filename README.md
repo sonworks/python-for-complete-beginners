@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td><a href="https://wikidocs.net/book/2" target="_blank"></a><img src="https://wikidocs.net/images//book/chobo_python_title.png" width="100"></td>
+        <td><a href="https://wikidocs.net/book/2" target="_blank"><img src="https://wikidocs.net/images//book/chobo_python_title.png" width="100"></a></td>
         <td>전뇌해커 저 | 위키독스 | 2024년 10월 08일<br>저작권: <img src="https://wikidocs.net/static/img/by-nc-sa.png" /></td>
     </tr>
 </table>
